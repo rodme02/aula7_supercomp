@@ -1,0 +1,55 @@
+Metodo Exaustivo:
+Valor total: 3320
+Peso total: 405
+Tempo de execucao: 4266500 ns
+
+Metodo Embaralhar e Preencher - Execucao 1:
+Valor total: 3320
+Peso total: 405
+Tempo de execucao: 600 ns
+
+Metodo Embaralhar e Preencher - Execucao 2:
+Valor total: 3320
+Peso total: 405
+Tempo de execucao: 500 ns
+
+Metodo Embaralhar e Preencher - Execucao 3:
+Valor total: 3320
+Peso total: 405
+Tempo de execucao: 500 ns
+
+Metodo Embaralhar e Preencher - Execucao 4:
+Valor total: 3320
+Peso total: 405
+Tempo de execucao: 500 ns
+
+Metodo Embaralhar e Preencher - Execucao 5:
+Valor total: 3320
+Peso total: 405
+Tempo de execucao: 500 ns
+
+Metodo Selecao Aleatoria - Execucao 1:
+Valor total: 1791
+Peso total: 205
+Tempo de execucao: 7100 ns
+
+Metodo Selecao Aleatoria - Execucao 2:
+Valor total: 1630
+Peso total: 188
+Tempo de execucao: 6800 ns
+
+Metodo Selecao Aleatoria - Execucao 3:
+Valor total: 2045
+Peso total: 234
+Tempo de execucao: 10600 ns
+
+Metodo Selecao Aleatoria - Execucao 4:
+Valor total: 1930
+Peso total: 220
+Tempo de execucao: 10700 ns
+
+Metodo Selecao Aleatoria - Execucao 5:
+Valor total: 2369
+Peso total: 253
+Tempo de execucao: 6800 ns
+
